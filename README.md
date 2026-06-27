@@ -30,7 +30,7 @@ Open http://localhost:3000 — or test with the mock HTML file.
 ```
 bingo-app/
 ├── backend/           Node.js + Express + Socket.IO
-│   └── src/
+│   └── src/@
 │       ├── config/    DB, encryption, JWT config
 │       ├── models/    User, Card, Game, Transaction
 │       ├── routes/    Auth, Wallet, Game, Admin
